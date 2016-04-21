@@ -1,4 +1,4 @@
-The Project Contains typescipt code samples including like:
+The Project Contains typescipt code samples including:
 * Working with DOM elements
 * Classes
 * Interfaces
