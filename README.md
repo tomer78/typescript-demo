@@ -6,6 +6,10 @@ The Project Contains typescipt code samples including:
 * Arrow Functions
 * string Templates
 * Modules
+* 
+
+The tsconfig.json is using the AMD Module.
+Therefore,the external files loading examples uses requirejs library.
 
 
 
