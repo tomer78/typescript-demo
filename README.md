@@ -1,5 +1,4 @@
-# typescript-demo
-#The project Contains basic typescipt code samples.
+# typesciptCode samples. like:
 * Working with dom elements
 * Classes
 * Interfaces
