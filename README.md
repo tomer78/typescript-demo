@@ -11,7 +11,7 @@ The Project Contains typescipt code samples including:
 
 Installing
 -------------
-To Run you just need the Typescript Compiler installed. ( via you I.D.E or install manualy)
+To Run you just need the Typescript Compiler installed. ( via your I.D.E or install manualy)
 
     npm install -g typescript
 
